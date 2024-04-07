@@ -18,7 +18,7 @@ config: {
 		category: "banking",
 		guide: {
 			vi: "",
-			en: "{pn} [transfer | withdraw | show | deposit | interest]\nbank transfer (amount) (uid of who you want to transfer) without ()\nbank interest:get interst.\nbank show: show money of your account.\nbank deposit (amount of your money)\nbank withdraw (amount of money)"
+			en: "{pn} [transfer | withdraw | show | deposit |rich |interest]\nbank transfer (amount) (uid of who you want to transfer) without ()\nbank interest:get interst.\nbank show: show money of your account.\nbank deposit (amount of your money)\nbank withdraw (amount of money)"
 		}
 },
  
